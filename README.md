@@ -1,3 +1,9 @@
+<!-- local-development:start -->
+## Desarrollo local
+
+Consulta [RUNNING.md](RUNNING.md) para ubicar cada componente, abrirlo en su IDE, compilarlo y conocer las comprobaciones realizadas y los requisitos pendientes.
+<!-- local-development:end -->
+
 OSIS Bibles
 ===========
 
@@ -24,4 +30,4 @@ https://github.com/lookitscook/osis-bibles/tree/split
 
 (for use with github hosted ajax applications, etc.. so entire text does not need to be loaded up front)
 
-If there is interest in hosting other formats additional branches can be created and the project re-organized accordingly. 
+If there is interest in hosting other formats additional branches can be created and the project re-organized accordingly.
