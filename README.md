@@ -1,7 +1,7 @@
 <!-- local-development:start -->
-## Desarrollo local
+## Desarrollo de este fork
 
-Consulta [RUNNING.md](RUNNING.md) para ubicar cada componente, abrirlo en su IDE, compilarlo y conocer las comprobaciones realizadas y los requisitos pendientes.
+Este repositorio personal integra el historial de [gratis-bible/bible, rama master](https://github.com/gratis-bible/bible). Consulta [RUNNING.md](RUNNING.md) para abrirlo en tu entorno, compilarlo o validar sus datos y conocer sus requisitos y límites. Se conservan la documentación, las licencias y las atribuciones del original.
 <!-- local-development:end -->
 
 OSIS Bibles
